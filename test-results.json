@@ -1,0 +1,298 @@
+{
+  "stats": {
+    "suites": 13,
+    "tests": 20,
+    "passes": 20,
+    "pending": 0,
+    "failures": 0,
+    "start": "2018-11-13T16:47:36.452Z",
+    "end": "2018-11-13T16:47:36.497Z",
+    "duration": 45
+  },
+  "tests": [
+    {
+      "title": "get download link with btoa",
+      "fullTitle": "CSV generator getDownloadLink get download link with btoa",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "not throw",
+      "fullTitle": "CSV generator ieDownload not throw",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "initialize with default settings",
+      "fullTitle": "CSV generator initSettings initialize with default settings",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "initialize with custom settings",
+      "fullTitle": "CSV generator initSettings initialize with custom settings",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "allow empty arrays",
+      "fullTitle": "CSV generator initData allow empty arrays",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "not change an array of arrays",
+      "fullTitle": "CSV generator initData not change an array of arrays",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "convert an array of objects to array of arrays",
+      "fullTitle": "CSV generator initData convert an array of objects to array of arrays",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "require an array of arrays",
+      "fullTitle": "CSV generator checkInputs require an array of arrays",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "require an array of objects",
+      "fullTitle": "CSV generator checkInputs require an array of objects",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "require a file name",
+      "fullTitle": "CSV generator checkInputs require a file name",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "not throw",
+      "fullTitle": "CSV generator download not throw",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "have proper filename and href or click handler (IE)",
+      "fullTitle": "CSV generator getLinkElement have proper filename and href or click handler (IE)",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "generate data with btoa",
+      "fullTitle": "CSV generator getData generate data with btoa",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "save data with msSaveBlob",
+      "fullTitle": "CSV generator getData save data with msSaveBlob",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "quote a cell",
+      "fullTitle": "CSV generator quote quote a cell",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "escape quotes when quoting",
+      "fullTitle": "CSV generator quote escape quotes when quoting",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Extract keys from first object in data array",
+      "fullTitle": "CSV generator extractKeysFromFirstRow Extract keys from first object in data array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "leave alone",
+      "fullTitle": "CSV generator transformCell leave alone",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "quote data",
+      "fullTitle": "CSV generator transformCell quote data",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Convert array of objects to array of arrays and add columns",
+      "fullTitle": "CSV generator convertData Convert array of objects to array of arrays and add columns",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "get download link with btoa",
+      "fullTitle": "CSV generator getDownloadLink get download link with btoa",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "not throw",
+      "fullTitle": "CSV generator ieDownload not throw",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "initialize with default settings",
+      "fullTitle": "CSV generator initSettings initialize with default settings",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "initialize with custom settings",
+      "fullTitle": "CSV generator initSettings initialize with custom settings",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "allow empty arrays",
+      "fullTitle": "CSV generator initData allow empty arrays",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "not change an array of arrays",
+      "fullTitle": "CSV generator initData not change an array of arrays",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "convert an array of objects to array of arrays",
+      "fullTitle": "CSV generator initData convert an array of objects to array of arrays",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "require an array of arrays",
+      "fullTitle": "CSV generator checkInputs require an array of arrays",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "require an array of objects",
+      "fullTitle": "CSV generator checkInputs require an array of objects",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "require a file name",
+      "fullTitle": "CSV generator checkInputs require a file name",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "not throw",
+      "fullTitle": "CSV generator download not throw",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "have proper filename and href or click handler (IE)",
+      "fullTitle": "CSV generator getLinkElement have proper filename and href or click handler (IE)",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "generate data with btoa",
+      "fullTitle": "CSV generator getData generate data with btoa",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "save data with msSaveBlob",
+      "fullTitle": "CSV generator getData save data with msSaveBlob",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "quote a cell",
+      "fullTitle": "CSV generator quote quote a cell",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "escape quotes when quoting",
+      "fullTitle": "CSV generator quote escape quotes when quoting",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Extract keys from first object in data array",
+      "fullTitle": "CSV generator extractKeysFromFirstRow Extract keys from first object in data array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "leave alone",
+      "fullTitle": "CSV generator transformCell leave alone",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "quote data",
+      "fullTitle": "CSV generator transformCell quote data",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Convert array of objects to array of arrays and add columns",
+      "fullTitle": "CSV generator convertData Convert array of objects to array of arrays and add columns",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
